@@ -5,7 +5,7 @@ Language Used:- Java11
 
 Install IntelliJ CE Edition, I have used 2019 latest version. open the personal folder inside BunningsCodingSkills Folder
 
-Location of input files: BunningsCodingSkills/personal/input
+Location of input files inside downloaded Folder: pooja-paryani/personal/input
 
 Provide the path for input folder inside "path" variable in FileSource.java Provide output file name path inside "outputFileName" variable in FileSource.java Run the FileSource.java for creating output file
 
