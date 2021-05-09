@@ -3,7 +3,11 @@ Please find the instructions below to run:-
 
 Language Used:- Java11
 
-Install IntelliJ CE Edition, I have used 2019 latest version. open the personal folder inside BunningsCodingSkills Folder
+Install IntelliJ CE Edition, I have used 2019 latest version.
+
+Git clone:- https://github.com/pooja-paryani/pooja-paryani.git
+
+Open the personal folder from Master branch using IntelliJ
 
 Location of input files inside downloaded Folder: pooja-paryani/personal/input
 
